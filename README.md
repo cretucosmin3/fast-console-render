@@ -10,4 +10,5 @@ Spacebar - Pause.
 
 C - Clear console.
 
-![Moving cube](https://github.com/cretucosmin3/fast-console-render/blob/main/media/fast-console.gif  | height=400)
+
+![](https://github.com/cretucosmin3/fast-console-render/blob/main/media/fast-console.gif  | height=400)
