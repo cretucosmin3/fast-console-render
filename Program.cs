@@ -94,16 +94,16 @@ static class Program
     private static void DisplayControls()
     {
         MoveCursor(4, 2);
-        Draw("{C} - refresh console", false);
+        Draw("{C}\t\t\t - refresh console", false);
 
         MoveCursor(4, 3);
-        Draw("{Spacebar} - pause animation", false);
+        Draw("{Spacebar}\t\t - pause animation", false);
 
         MoveCursor(4, 4);
-        Draw("{Left, Right} - adjust speed", false);
+        Draw("{Left, Right}\t - adjust speed", false);
 
         MoveCursor(4, 5);
-        Draw("{Up, Down} - adjust FPS", false);
+        Draw("{Up, Down}\t\t - adjust FPS", false);
 
         MoveCursor(4, 7);
         Draw("Press any key to continue...", false);
