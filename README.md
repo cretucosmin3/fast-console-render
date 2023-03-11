@@ -1,7 +1,7 @@
 # fast-console-render
 A project to test the console speed to write
 
-## Controls:
+### Controls:
 Left / Right - Control speed.
 
 Up / Down - Control render speed (FPS).
@@ -11,4 +11,4 @@ Spacebar - Pause.
 C - Clear console.
 
 
-![](https://github.com/cretucosmin3/fast-console-render/blob/main/media/fast-console.gif  | height=400)
+<img src="https://github.com/cretucosmin3/fast-console-render/blob/main/media/fast-console.gif" height="200">
